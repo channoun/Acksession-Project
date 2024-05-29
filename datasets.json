@@ -1,0 +1,50 @@
+{
+    "Roboflow": [
+        {
+            "workspace": "graduationproject-t4eec",
+            "project": "old-iraq-number-plate",
+            "version": 4,
+            "format": [
+                "yolov9",
+                ""
+            ]
+        },
+        {
+            "workspace": "israa-5ugng",
+            "project": "lp-iraq",
+            "version": 4,
+            "format": [
+                "yolov9",
+                ""
+            ]
+        },
+        {
+            "workspace": "iraqi-license-plates-jm4wx",
+            "project": "iraqi-license-plates-bqadd",
+            "version": 1,
+            "format": [
+                "yolov9",
+                ""
+            ]
+        },
+        {
+            "workspace": "kanwal-masroor-gv4jr",
+            "project": "yolov7-license-plate-detection",
+            "version": 3,
+            "format": [
+                "yolov9",
+                ""
+            ]
+        },
+        {
+            "workspace": "projects-imqht",
+            "project": "project-anpr-bv7nb",
+            "version": 2,
+            "format": [
+                "yolov9",
+                ""
+            ]
+        }
+    ],
+    "kaggle": []
+}

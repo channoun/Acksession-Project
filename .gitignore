@@ -1,0 +1,8 @@
+.env
+*.jpg
+*.png
+*.txt
+__pycache__/
+yolo_compiled_dataset/
+LP-IRAQ-4/
+old-iraq-number-plate-4/
