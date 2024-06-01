@@ -5,7 +5,7 @@
             "project": "old-iraq-number-plate",
             "version": 4,
             "format": [
-                "yolov9",
+                "yolov8",
                 ""
             ]
         },
@@ -14,7 +14,7 @@
             "project": "lp-iraq",
             "version": 4,
             "format": [
-                "yolov9",
+                "yolov8",
                 ""
             ]
         },
@@ -23,7 +23,7 @@
             "project": "iraqi-license-plates-bqadd",
             "version": 1,
             "format": [
-                "yolov9",
+                "yolov8",
                 ""
             ]
         },
@@ -32,7 +32,7 @@
             "project": "yolov7-license-plate-detection",
             "version": 3,
             "format": [
-                "yolov9",
+                "yolov8",
                 ""
             ]
         },
@@ -41,7 +41,7 @@
             "project": "project-anpr-bv7nb",
             "version": 2,
             "format": [
-                "yolov9",
+                "yolov8",
                 ""
             ]
         }

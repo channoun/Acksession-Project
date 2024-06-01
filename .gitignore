@@ -1,8 +1,8 @@
 .env
-*.jpg
-*.png
-*.txt
 __pycache__/
-yolo_compiled_dataset/
-LP-IRAQ-4/
-old-iraq-number-plate-4/
+old-iraq-number-plate/
+lp-iraq/
+iraqi-license-plates-bqadd/
+yolov7-license-plate-detection/
+project-anpr-bv7nb/
+yolov8_compiled_dataset/
