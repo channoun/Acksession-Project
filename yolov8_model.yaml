@@ -1,6 +1,8 @@
 names:
-- license-plate
-nc: 1
+- iraq-plate-old
+- iraq-plate-new
+- non-iraqi-plate
+nc: 3
 test:
 - ./yolov8_compiled_dataset/test
 train:

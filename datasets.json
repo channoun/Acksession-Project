@@ -6,8 +6,10 @@
             "version": 4,
             "format": [
                 "yolov8",
-                ""
-            ]
+                "yolov5"
+            ],
+            "downsample": 1.0,
+            "labels": {}
         },
         {
             "workspace": "israa-5ugng",
@@ -15,8 +17,156 @@
             "version": 4,
             "format": [
                 "yolov8",
-                ""
-            ]
+                "yolov5"
+            ],
+            "downsample": 1.0,
+            "labels": {
+                "1": [
+                    {
+                        "src": "train",
+                        "imgs": [
+                            "-_png.rf.70669c9f19ab8a28211e1a12d8ab9a26.jpg",
+                            "1_jpg.rf.e7ea251ffba0496b60ba38a2a464db0b.jpg",
+                            "2_jpg.rf.e0ac6f45ea01f04ae396d4b93e609133.jpg",
+                            "3_jpg.rf.7fd068105f721372e0aff6ac4918581d.jpg",
+                            "5_jpg.rf.153262c24f71f668f9c0a92d6ef59f79.jpg",
+                            "6_jpg.rf.db336d6f5c7f12e2921bb467c900a9b1.jpg",
+                            "8_jpg.rf.70f74cd697020d33c2ea6cc74d224cee.jpg",
+                            "9_jpg.rf.2e2d79b18226158f8803e7ffb8060d16.jpg",
+                            "10_jpg.rf.0c598bec09645c46dd66699c5c606a67.jpg",
+                            "11_jpg.rf.c709800064cadf81371f8043b62dc8e7.jpg",
+                            "12_jpg.rf.a20b2dd7a10eb5da07453fc5a80e44bc.jpg",
+                            "12_png.rf.e9ee4fa74fc9db70314e8c0765883989.jpg",
+                            "13_jpg.rf.fc15e2534724e7fc591e8328cb5afee1.jpg",
+                            "13_png.rf.9ca582a7ffc990cbdf04e8ce1e7e469b.jpg",
+                            "14_png.rf.14dd1939799581b083019c5604c79d9f.jpg",
+                            "15_jpg.rf.09d5bbe697c221545f1cd2df536ab67f.jpg",
+                            "16_jpg.rf.0cbe340460c3d11383351612596614d1.jpg",
+                            "17_jpg.rf.7780f15b86973011727e450f0f42c70d.jpg",
+                            "19_jpg.rf.c9e0c7e18e235443f2da18df472364b6.jpg",
+                            "22_jpg.rf.f1dbfa413aca43ef1225c34ae2ec20f2.jpg",
+                            "23_png.rf.f9316728b77004cd7ad3bbc5df1080ed.jpg",
+                            "24_png.rf.77cdbbbeb10bf73554faa81406e9b83a.jpg",
+                            "25_png.rf.b9b4ba7d0a028bbd20ffcc442f97bcaf.jpg",
+                            "28_png.rf.e76a4954a12954ac2dc95c11bab0537d.jpg",
+                            "29_png.rf.4571715aa5d099c9ee41da0aba681f9f.jpg",
+                            "31_png.rf.07160409b3ff98f6b5d137b31046f6f4.jpg",
+                            "33_png.rf.faf145ca8c00e6b824927beb5bad51f2.jpg",
+                            "35_png.rf.f04277d3aeb74b57d4af37ce0809df08.jpg",
+                            "36_png.rf.1224af1b0222f863b72526e239483188.jpg",
+                            "37_png.rf.a9c0c6b286b50221b4b47a8a20f5f930.jpg",
+                            "38_png.rf.5d4fd10420d3df376a48269109e245aa.jpg",
+                            "39_png.rf.186093ebad9e197932c2b3cf19121a58.jpg",
+                            "40_png.rf.c8ef61963efbac7e4cb7120d4f8d4d50.jpg",
+                            "41_png.rf.2664044ebc5405d345ef748b1fc70cef.jpg",
+                            "42_png.rf.03a71fa3afccee7efd80335617d395c7.jpg",
+                            "47_png.rf.d341f8373bbc1cc5927cc6d701f6671c.jpg",
+                            "49_jpg.rf.c587a63deba3bc0f2a5dedfd99e6054e.jpg",
+                            "50_jpg.rf.3f1fe8df909b756afc91095d23f5f670.jpg",
+                            "51_jpg.rf.b8aaeed65bc41f8841f51b71e4302a87.jpg",
+                            "53_jpg.rf.888465569479a947f53438ca62d4bf6c.jpg",
+                            "55_jpg.rf.b2d787dd816eb9ac82192a43e6e8c697.jpg",
+                            "56_jpg.rf.7b2cbb847a980d5b800e4d58316cfb87.jpg",
+                            "58_jpg.rf.f13b5236bde329aad29b5f4006911c0c.jpg",
+                            "59_jpg.rf.a537b1c3d06d9cf3bc07c5f70a606079.jpg",
+                            "60_jpg.rf.953a946037f327feee97fc60887775e1.jpg",
+                            "61_jpg.rf.0535fcea7c5cbb0396c005bdf2572a5f.jpg",
+                            "66_jpg.rf.d9d71cbfdcc7af21ae0c7e4401a5033b.jpg",
+                            "69-1-_jpg.rf.2088e1dc853cdfa314c1fe394cd9e16e.jpg",
+                            "69-2-_jpg.rf.ee92b4029feee0d0254bdc730277bc68.jpg",
+                            "69-4-_jpg.rf.66bdef321ed4430125d10ba64d7ae610.jpg",
+                            "69-5-_jpg.rf.090a109af399f62908e33c3cdd48c499.jpg",
+                            "69-6-_jpg.rf.a4a066577abfb065d5abfe3fc4c31eb9.jpg",
+                            "69-7-_jpg.rf.f13626621d5020897ccaf3fa912d37ef.jpg",
+                            "69-8-_jpg.rf.ad27c1bba7b85395d95cff8e41c6b522.jpg",
+                            "69-9-_jpg.rf.ae82e0faa6ea6378df3f0374b6df4997.jpg",
+                            "69-10-_jpg.rf.3e7090752c66fe03167f197d6d4d415d.jpg",
+                            "69-11-_jpg.rf.fd6cdcc3d2d4ce51148c6d1701b44f9c.jpg",
+                            "69-12-_jpg.rf.6b36a1bb77a9dca850a41a0479e0512d.jpg",
+                            "69-14-_jpg.rf.f9e8fcd7f993ac0cf64d5cac523b4d7c.jpg",
+                            "70-2-_jpg.rf.d848de457337a2498c0c01c812bd7bf8.jpg",
+                            "70-5-_jpg.rf.ab327bdfd0d418c9dec657139d9c91eb.jpg",
+                            "70-6-_jpg.rf.af636053c9fe9e6601f431fd6c898686.jpg",
+                            "70-7-_jpg.rf.3f99e2aac98ecf3bdbd155aa7df9e5bf.jpg",
+                            "70-8-_jpg.rf.6675c746a2a84022c6e193bef1fa0519.jpg",
+                            "70-9-_jpg.rf.37dd5d8905816c87e18f0292cd3c41f8.jpg",
+                            "70-11-_jpg.rf.00c88059ced581c50cb13a53f38eaa26.jpg",
+                            "70-12-_jpg.rf.a66473874188abee689f48cd34c6a872.jpg",
+                            "72_jpg.rf.82ee6c4b1969e642576fd852219d5a76.jpg",
+                            "408841512_890371639394300_1460348901234837418_n_jpg.rf.768522b4b12ce93e32da113ddcd84db2.jpg",
+                            "417386257_773691387933239_6898392438608137141_n_jpg.rf.e8e0af465edd9dbeedb4487976b28d55.jpg",
+                            "417398034_338880322358269_7005681165138905426_n_jpg.rf.2aeb3de3af1fe90dc8d2c9fa7d6bc0c2.jpg",
+                            "417497029_1068080351186599_2671958615956119479_n_jpg.rf.752deec400373e90ad16cac96db797cc.jpg",
+                            "417527817_3638507559765996_2783528565733019111_n_jpg.rf.1a711fe7e775c07164031f294ad21efd.jpg",
+                            "418200065_390323273663771_229886302327808917_n_jpg.rf.ac170bd9b04f767b603abb50411930eb.jpg",
+                            "418292768_2081031585606441_1910447135042170011_n_jpg.rf.e5439d36b2df570bebe20116eb163e93.jpg",
+                            "418427225_6682345918543544_954183426041175997_n_jpg.rf.9c836af9f799b750635e0d9850f9f5ed.jpg",
+                            "418498860_2711754922308768_4372768278094067906_n_jpg.rf.1a272c328f93a961423487040fcb61e5.jpg",
+                            "418891716_1782651262200444_408936683122889870_n_jpg.rf.98241f396a3a92c71c8d168d093e1f00.jpg",
+                            "419173054_777935504164308_496264249723982035_n_jpg.rf.1a00dcccc674913a0f3e946622b6e5bd.jpg",
+                            "419176213_2134174166919452_9167406279809657441_n_jpg.rf.4b6e626b279f2acf957800d98c5275b3.jpg",
+                            "419189238_1388361102042491_6213592071963848216_n_jpg.rf.30cf1940adc38774aa5a8a1c39709c0b.jpg",
+                            "419192418_3350354898596144_6855821171673115350_n_jpg.rf.d824a125207ba4ab287b5074986f109a.jpg",
+                            "419204786_1033227971126356_8751368470577209056_n_jpg.rf.2ad76f273758697d1c0b8267d58a234a.jpg",
+                            "419274991_1033227917793028_2723141448758376497_n_jpg.rf.4c229961e4d3b7cd1362a4583ad86e22.jpg",
+                            "419346258_1570236857129854_4593426589105439854_n_jpg.rf.43d4de2300ff5f53f8558b345db7f567.jpg",
+                            "419485574_2069538776755979_3807427395202786071_n_jpg.rf.94d1ff6e8b6e169f05e730f62325272d.jpg",
+                            "419669807_281682444926965_4337086926220090965_n-1-_jpg.rf.974a39a54bf125ced813be6192bd0a12.jpg",
+                            "419743808_2135196670150535_2734321232536247156_n_jpg.rf.fb5d7ede7bab132a27367a66e0fcdfc3.jpg",
+                            "419836630_341613475528958_9116802217930377171_n_jpg.rf.d4437aa780303fdc81a64872ad9da1a8.jpg",
+                            "419844050_684711043818846_4372606256827097500_n_jpg.rf.fa131f8cf88815ff141dcfa90c043cee.jpg",
+                            "421396543_281877468239636_6636159490711177819_n_jpg.rf.ba429a7b1d5b5fb5a4bcef440aea841b.jpg",
+                            "421414761_281877314906318_1157538930306563239_n_jpg.rf.298a5db685b5a16785bf4597f38b80e7.jpg",
+                            "422118392_281877501572966_1223028348538977431_n_jpg.rf.23980b0dc63d241406e261536ad29474.jpg",
+                            "WhatsApp-Image-2024-01-28-at-04-41-05_fd4debcb_jpg.rf.5f7baa604c3d7fb99dd25933b895c858.jpg"
+                        ]
+                    },
+                    {
+                        "src": "test",
+                        "imgs": [
+                            "14_jpg.rf.f1c081d395119dc3a3b80a247afbffc1.jpg",
+                            "15_png.rf.0976cfbb500a2152e1a3fc0c1a4e5857.jpg",
+                            "27_png.rf.b0b8716a131c0677226f471ab3678c72.jpg",
+                            "52_jpg.rf.b397e1748e6adf4dadcfdb061d72aaf2.jpg",
+                            "70-1-_jpg.rf.d441ae9ef94c029ffcbfe74b95b8f4de.jpg",
+                            "70-3-_jpg.rf.2a17adf768ca0f94b5838147ddcf6a7a.jpg",
+                            "70-13-_jpg.rf.155d171cdc72c0ac0e035e1b926569a9.jpg",
+                            "417364312_1068529891141645_6625828181421494034_n_jpg.rf.f3d71e0a025ad3d1237b0a7c137fb060.jpg",
+                            "419241033_2209276712612167_308946357964497821_n_jpg.rf.d8c0ae777f53338fc56caa1c81550fb6.jpg",
+                            "419420193_2608644655967002_1421768417040176403_n_jpg.rf.e39b11b7b14e404ebe939432f104b554.jpg"
+                        ]
+                    },
+                    {
+                        "src": "valid",
+                        "imgs": [
+                            "4_jpg.rf.c28d759ed802f5a029808068059384d1.jpg",
+                            "7_jpg.rf.96a539789b689e0c7c040743dc32d9f9.jpg",
+                            "20_png.rf.0535e65986898931a0a04ed67f8fbb1a.jpg",
+                            "21_png.rf.92943aaed5589c9519475d6aaf3494fa.jpg",
+                            "26_jpg.rf.ead209d4d019deb3886c512d2699106f.jpg",
+                            "30_png.rf.1421bf4ffb3d155abf98dbc7eff04564.jpg",
+                            "32_png.rf.49e2e374830676be53b88a721f384e2d.jpg",
+                            "34_png.rf.5ab9a875ca12268b9402e6e06e1aa5c4.jpg",
+                            "43_png.rf.b912ebe3408f0483dc238cfc39482daa.jpg",
+                            "45_png.rf.c6c41f23b035dcec044d71278e4d1308.jpg",
+                            "54_jpg.rf.8be9ca068826d755768e053e2b645d45.jpg",
+                            "57_jpg.rf.fb2b65b64df8b567923948d1b2f18a97.jpg",
+                            "62_png.rf.519e376af45eb8e2dbddf3d0ff05f60b.jpg",
+                            "64_jpg.rf.3d6ce83758f418b43eff8bfdd5076a95.jpg",
+                            "69-3-_jpg.rf.fb33f1cd52e93f0c7ba9445d147030f4.jpg",
+                            "69-13-_jpg.rf.1a890890644b28a29f69b460cd1b907f.jpg",
+                            "70-4-_jpg.rf.297171249814d5dcae194d7d016e2300.jpg",
+                            "70-10-_jpg.rf.6755c8e9eed38fb10c58404b625d2ebb.jpg",
+                            "417250373_2181063638912709_4058591655379612994_n_jpg.rf.4692051b49351746e17950a2eee1e46f.jpg",
+                            "419104669_1558076341676982_3260539758307103807_n_jpg.rf.4d9213fd6e990286f3a2bd0a30a11d01.jpg",
+                            "419208158_1062380311651247_6213265386919213869_n_jpg.rf.64951df465dd0ab6cae6de44534cd94a.jpg",
+                            "419382470_2134397313563804_412977439807758017_n_jpg.rf.96cff0dea86fec37e2216333b1b48206.jpg",
+                            "419855686_684711093818841_7307573529722869870_n_jpg.rf.09f0310532f65e6ef2a345569a8ea9ea.jpg",
+                            "419858245_1581404476005629_5111151562342460671_n_jpg.rf.491f81d568dc4d854205e75a3409b411.jpg"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "workspace": "iraqi-license-plates-jm4wx",
@@ -24,17 +174,140 @@
             "version": 1,
             "format": [
                 "yolov8",
-                ""
-            ]
-        },
-        {
-            "workspace": "kanwal-masroor-gv4jr",
-            "project": "yolov7-license-plate-detection",
-            "version": 3,
-            "format": [
-                "yolov8",
-                ""
-            ]
+                "yolov5"
+            ],
+            "downsample": 1.0,
+            "labels": {
+                "1": [
+                    {
+                        "src": "train",
+                        "imgs": [
+                            "3_jpg.rf.a2fd0820f4095a7e74b86a837330eefa.jpg",
+                            "8_jpg.rf.68a051a46b8b355b3122a97e4462b367.jpg",
+                            "9_jpg.rf.29e11a672ee7c60f5e413535f3260d73.jpg",
+                            "10_jpg.rf.bba47a6b4af343620e6d9031b1b96f54.jpg",
+                            "11_jpg.rf.312232bdf3546a7b8068f1688cb1e327.jpg",
+                            "12_jpg.rf.4d8c20c433c13acaf2713d26d05116ae.jpg",
+                            "12_png_jpg.rf.453f80b5fb21e879103018f040c74eb0.jpg",
+                            "13_png_jpg.rf.8a08ff3b370d8c03eb81c838c742a89d.jpg",
+                            "14_png_jpg.rf.2b5239c40b0d0f926a0277eaef736b1f.jpg",
+                            "15_jpg.rf.d08cb1f6830de47852cac343a6095a6f.jpg",
+                            "16_jpg.rf.1fb42ba0cb51f297fcefb1acbfca9f71.jpg",
+                            "17_jpg.rf.f4d49648789aba6365b3ba5af281fccd.jpg",
+                            "20_png_jpg.rf.6e6e790aa25c16db04ee5dde3a31678b.jpg",
+                            "21_png_jpg.rf.898f7fda727c602b02e670a428348781.jpg",
+                            "22_jpg.rf.1f725a2c35880f2c901b40a26bb3bb4e.jpg",
+                            "23_png_jpg.rf.85e88638078a2496c211afb1f7e45c31.jpg",
+                            "24_png_jpg.rf.789cbc4d85da97cf007f60e4bfe33c8f.jpg",
+                            "25_png_jpg.rf.73ff5224b4521176cdbf86f3c601244f.jpg",
+                            "26_jpg.rf.5dae1b9c9649c817facdf85f7ecb2f67.jpg",
+                            "27_png_jpg.rf.e52976d945a82d75490ef3ca8d30dc9b.jpg",
+                            "28_png_jpg.rf.1538de3ead127a6b8ec1fe7df5096af9.jpg",
+                            "29_png_jpg.rf.921e8293948506567e48285e7e7bff6e.jpg",
+                            "30_png_jpg.rf.d22866a2fd700a257db3f256f36a5aa2.jpg",
+                            "31_png_jpg.rf.4c4e324480f584054c2c4ebc1e52f2b4.jpg",
+                            "33_png_jpg.rf.b3f4d1d860d5bebb0a2fd238f70c390f.jpg",
+                            "34_png_jpg.rf.a253c058cce8108360a7ede242d0c575.jpg",
+                            "35_png_jpg.rf.fa36aadf4d60d53e22839e2a975371b1.jpg",
+                            "36_png_jpg.rf.e3e0e541a999660f453baea88e6cedea.jpg",
+                            "37_png_jpg.rf.11e8109e8712ee2e252ab7d209911855.jpg",
+                            "38_png_jpg.rf.96d3dc09e02e426b3065e70bc9a1b215.jpg",
+                            "40_png_jpg.rf.6d8cac819c9f02b77ac4a44a61f84d38.jpg",
+                            "41_png_jpg.rf.1ce763d234c01adac123154a1023b20f.jpg",
+                            "42_png_jpg.rf.ebaa4c800bf4945f79526be1c00707e8.jpg",
+                            "43_png_jpg.rf.1248b47fbbcc3ad2fdc2f264a33decad.jpg",
+                            "45_png_jpg.rf.3f98c956bd7ce3a68278d135af4c552e.jpg",
+                            "47_png_jpg.rf.b7e95aec2c80531e3e6515dcb4d7c6e1.jpg",
+                            "50_jpg.rf.3e3ba2104a78fd22c748aed77529db56.jpg",
+                            "51_jpg.rf.107ec2852ec03f3cb8798a02cf08d5f6.jpg",
+                            "53_jpg.rf.a0dfaa90b0edd46ac0550f522ecb891b.jpg",
+                            "54_jpg.rf.ed29c654ddb852c027ed107cd3c864c8.jpg",
+                            "55_jpg.rf.01e685114947e4f34ee4e9d2665349ab.jpg",
+                            "60_jpg.rf.25a37ee6c543f50a51a0f1f1f79b9601.jpg",
+                            "64_jpg.rf.0ff97e9e6471da8f0700d623f4db0135.jpg",
+                            "65_jpg.rf.4555ab1e247c572eea3089847715cfc9.jpg",
+                            "67_jpg.rf.37afbee954f302e52ded27c952f259ee.jpg",
+                            "68_jpg.rf.b38d225ba8a93a4e67c7f52170f80b30.jpg",
+                            "69-1-_jpg.rf.7527f960456caa09b13277a09dad4967.jpg",
+                            "69-6-_jpg.rf.a866dd20819ed8428c2884949221e4b8.jpg",
+                            "69-7-_jpg.rf.4c53ebc2f00a95c6cd971fa13df14b05.jpg",
+                            "69-9-_jpg.rf.e56228ba147fa5f83ab8f8cb813cf345.jpg",
+                            "69-10-_jpg.rf.8862c008f8879b56d2c98e26ade035fa.jpg",
+                            "69-12-_jpg.rf.6801dfbd9a2776bfd6d1b1b2dbb05cc8.jpg",
+                            "69-13-_jpg.rf.7ff393b95a498a4c6f871d689b4c70c4.jpg",
+                            "70-1-_jpg.rf.31baae875f3142602df27c65502b4b84.jpg",
+                            "70-2-_jpg.rf.ec397a859314c3be3098cfdc12a82089.jpg",
+                            "70-5-_jpg.rf.767397f126da9b792ced7d6dde0ef39a.jpg",
+                            "70-6-_jpg.rf.ae7d6c115d2b11fe20380a2574c25894.jpg",
+                            "70-7-_jpg.rf.d449c882988a35efc45a1d6fada09e6a.jpg",
+                            "70-8-_jpg.rf.c106ddd60de2ef426b36fa3c67f44957.jpg",
+                            "70-10-_jpg.rf.70c4e214eb01bb89b38b7110a357d45a.jpg",
+                            "70-11-_jpg.rf.2cf0de7ea96af83d7ce6152715131b91.jpg",
+                            "70-12-_jpg.rf.36819c584a5386019eba47ff4fcf8527.jpg",
+                            "72_jpg.rf.6b6c30c0b46ddfa5d6422e07e0179b65.jpg",
+                            "2222_png_jpg.rf.7d31d2d1be4c4ab7b39a27357176e04b.jpg",
+                            "392864247_3778345742490425_7611576354580211333_n_jpg.rf.012e52e318c2611168ca15e05199ff20.jpg",
+                            "408841512_890371639394300_1460348901234837418_n_jpg.rf.dbf23f7cc2f989aa1f5d6b8e3ea41e58.jpg",
+                            "409051158_1879918249126002_6853373907001320316_n_jpg.rf.ebc62f652eb920b82142b0df5f2babef.jpg",
+                            "409071924_122119124708207236_4922131853355105050_n_jpg.rf.d2205d4aa7f833119a2a5ebe5f2b6ff3.jpg",
+                            "415021156_773070117984180_561196406340456023_n_jpg.rf.81af81a9ef84451bf5303d36d8b145cc.jpg",
+                            "416128915_309042262122255_785876023409510226_n_jpg.rf.1232ade4c7d410addc28ef247d237fec.jpg",
+                            "417364312_1068529891141645_6625828181421494034_n_jpg.rf.3dd3801efc89522d526007acc70e4ac6.jpg",
+                            "417386257_773691387933239_6898392438608137141_n_jpg.rf.fa22c30163bea55ea940da26571606aa.jpg",
+                            "417436464_1637205653715445_3423513829767675185_n_jpg.rf.a74a9daaeb5cfccfb12d397ad22d738c.jpg",
+                            "417485662_411149158080721_5167579735256930411_n_jpg.rf.679640b86a0be24b216b4fd1aa966220.jpg",
+                            "417487010_1634222914013719_6170970632169799216_n_jpg.rf.bcc2630cb6e16812dc1ba002f18c93c9.jpg",
+                            "417491259_1635009020601775_2560667206372063412_n_jpg.rf.ce56dd2db67887c44790b4d3cfac53a2.jpg",
+                            "417497029_1068080351186599_2671958615956119479_n_jpg.rf.d17f5dadb4615e4b691ee915b6d50ed1.jpg",
+                            "417527817_3638507559765996_2783528565733019111_n_jpg.rf.39e45097370511006a9264b58fb44a3e.jpg",
+                            "417694468_1134361621217632_5255562804750221483_n_jpg.rf.515221aa5abd41c2353cf9915b1236fa.jpg",
+                            "418292768_2081031585606441_1910447135042170011_n_jpg.rf.ce974e05db42bcb18dc30a640e95a00a.jpg",
+                            "418427225_6682345918543544_954183426041175997_n_jpg.rf.8f454ee1b966cf8f29d14ac59127cdd5.jpg",
+                            "418498860_2711754922308768_4372768278094067906_n_jpg.rf.7c7a219a57c9e1e93920f3691b2fdc03.jpg",
+                            "418891716_1782651262200444_408936683122889870_n_jpg.rf.933753c261fedad0dbfc5f5d7d437bfd.jpg",
+                            "419104669_1558076341676982_3260539758307103807_n_jpg.rf.4a52a64eeb4f826dc8117ba72588ae0b.jpg",
+                            "419189238_1388361102042491_6213592071963848216_n_jpg.rf.da7c7573c3088a967b805738b02c88d8.jpg",
+                            "419192418_3350354898596144_6855821171673115350_n_jpg.rf.9f89c0bfa08b10ec26153952885d89f3.jpg",
+                            "419208158_1062380311651247_6213265386919213869_n_jpg.rf.91ebd33d97fbbae1df8bb3e805194287.jpg",
+                            "419241033_2209276712612167_308946357964497821_n_jpg.rf.6986c6923c7785c5c1ae3922251317b7.jpg",
+                            "419346258_1570236857129854_4593426589105439854_n_jpg.rf.0397ba754e36adf48effc304a27f4c36.jpg",
+                            "419382470_2134397313563804_412977439807758017_n_jpg.rf.14023051bc1c1c17097d7bbf8821f591.jpg",
+                            "419420193_2608644655967002_1421768417040176403_n_jpg.rf.35f5f4d36479c338e6898158c0fd58b9.jpg",
+                            "419485574_2069538776755979_3807427395202786071_n_jpg.rf.e7c041fc1e749b31f5c586d4ed8fa823.jpg",
+                            "419669807_281682444926965_4337086926220090965_n_jpg.rf.36f893a5ca337aaa634382dd1eb6427e.jpg",
+                            "419743808_2135196670150535_2734321232536247156_n_jpg.rf.2b364c6994479abb6b375fbb225a94b5.jpg",
+                            "419836630_341613475528958_9116802217930377171_n_jpg.rf.14b3e5afaad8b88ec8f0747a0b760491.jpg",
+                            "419844050_684711043818846_4372606256827097500_n_jpg.rf.e0ed9fe2e5a81ffe541a28f93ab10798.jpg",
+                            "419855686_684711093818841_7307573529722869870_n_jpg.rf.0f92cca65c40c7d1a87199b8e3c65a0e.jpg",
+                            "419858245_1581404476005629_5111151562342460671_n_jpg.rf.993e4e9a35c9c6df0d8af9581442f795.jpg",
+                            "421266348_344658211795114_5522783521342063951_n_jpg.rf.fadaa2e701ec7b648bfee852985b8af6.jpg",
+                            "421414761_281877314906318_1157538930306563239_n_jpg.rf.6d5501fdd284efbdc7e37f16de2e66c0.jpg",
+                            "421704807_2701416403340129_6888505334581280292_n_jpg.rf.733a64bc4a83701e2835e816707d58cf.jpg",
+                            "422118392_281877501572966_1223028348538977431_n_jpg.rf.9009787597891de4f220f584a7ff2a8a.jpg",
+                            "423236445_914140853735979_3567976257441789345_n_jpg.rf.d487ac953046d100b9dc7761ef77f487.jpg",
+                            "423315653_122124024392179500_4992072862778789539_n_jpg.rf.f6c687571644cee8ea06f53ade45df17.jpg",
+                            "425546498_778184977459113_7593592820491325436_n_jpg.rf.2fe9c2400cb578c9566fdad122fa6fa2.jpg",
+                            "427810755_908270274158367_6194491814433219703_n_jpg.rf.15bf5b84576053e0fc9c95fc64cb0251.jpg",
+                            "427888566_1426397441647347_7411258861587976472_n_jpg.rf.c8373f447f9c0a51e768a570a3d60cd4.jpg",
+                            "428617239_951937886279965_6276118885969789792_n_jpg.rf.4f9c481deee0edb11aae512ebb1a237e.jpg",
+                            "428629409_1388331985377175_1409896072242471286_n_jpg.rf.7d0054493aa1fa9f8485b3445cb3ecbb.jpg",
+                            "428676148_2581963515317791_1342126907309909792_n_jpg.rf.dc9e8a3dfa163f266131b8084788d50a.jpg",
+                            "429495413_312705151814967_4698912553503515335_n_jpg.rf.2f9d6642088104c66dab66b34241faa4.jpg",
+                            "429546038_275133125606104_3196434979333206217_n_jpg.rf.c5b0fd5f1da2dd7c9b4c5d47cd9ab95b.jpg",
+                            "429682171_418663760700998_6167331896824534147_n_jpg.rf.9950f588fded6b97bbe144ac24f6a3e1.jpg",
+                            "430306093_1073021917234092_6812497560855144817_n_jpg.rf.78ad6864089be0221c8ba9a4d1043041.jpg"
+                        ]
+                    },
+                    {
+                        "src": "test",
+                        "imgs": []
+                    },
+                    {
+                        "src": "valid",
+                        "imgs": []
+                    }
+                ]
+            }
         },
         {
             "workspace": "projects-imqht",
@@ -42,9 +315,36 @@
             "version": 2,
             "format": [
                 "yolov8",
-                ""
-            ]
+                "yolov5"
+            ],
+            "downsample": 1.0,
+            "labels": {}
+        },
+        {
+            "workspace": "roboflow-universe-projects",
+            "project": "license-plate-recognition-rxg4e",
+            "version": 4,
+            "format": [
+                "yolov8",
+                "yolov5"
+            ],
+            "downsample": 0.1,
+            "labels": {
+                "2": [
+                    {
+                        "src": "train",
+                        "imgs": []
+                    },
+                    {
+                        "src": "test",
+                        "imgs": []
+                    },
+                    {
+                        "src": "valid",
+                        "imgs": []
+                    }
+                ]
+            }
         }
-    ],
-    "kaggle": []
+    ]
 }
