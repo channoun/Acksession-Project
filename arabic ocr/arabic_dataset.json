@@ -1,0 +1,13 @@
+{
+    "Roboflow": [
+        {
+            "workspace": "yakand",
+            "project": "lpr-cckha",
+            "version": 1,
+            "format": [
+                "yolov8",
+                "yolov5"
+            ]
+        }
+    ]
+}
