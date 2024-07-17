@@ -1,0 +1,11 @@
+names:
+- iraq-plate-old
+- iraq-plate-new
+- non-iraqi-plate
+nc: 3
+test:
+- ./yolov8_compiled_dataset/test
+train:
+- ./yolov8_compiled_dataset/train
+val:
+- ../../../../yolov8_compiled_dataset/valid
